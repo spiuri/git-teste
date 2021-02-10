@@ -8,14 +8,14 @@
     "lite": “lite-server]},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/spiuri/git-teste.git"
+    "url": "git+github.com/spiuri/git-teste.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/spiuri/git-teste/issues"
+    "url": "github.com/spiuri/git-teste/issues"
   },
-  "homepage": "https://github.com/spiuri/git-teste#readme",
+  "homepage": "github.com/spiuri/git-teste#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
